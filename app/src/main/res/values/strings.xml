@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Конвертер</string>
+    <string name="hint_textfield">Введите число здесь</string>
+    <string name="button_text">Конвертировать</string>
+</resources>
